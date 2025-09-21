@@ -1,0 +1,15 @@
+var txt_not_drawn = "Pas tiré au sort";
+var txt_finished = "Terminé";
+var txt_match_ongoing = "Combat en cours";
+var txt_started = "Commencé";
+var txt_drawing_ready = "Tirage prêt";
+var txt_coach = "Coach";
+var txt_firstname = "Nom";
+var txt_lastname = "Prénom";
+var txt_weight = "Poids:";
+var txt_category = "Catégorie";
+var txt_status = "Status";
+var txt_place = "Place";
+var txt_display = "Afficher";
+var txt_match_after_1 = "Combat suivant";
+var txt_match_after_2 = "Combats";
