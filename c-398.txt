@@ -5,7 +5,7 @@ Adel
 JC Charleroi
 
 80000
-?
+U15 F +63 Pool A
 0
 BEL
 
