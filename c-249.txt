@@ -5,7 +5,7 @@ PRENOM
 CLUB
 
 0
-U18 G -66kg Tableau
+?
 0
 NATIONALITE
 
