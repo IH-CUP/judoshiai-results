@@ -5,7 +5,7 @@ Massi
 CTAM Tourcoing 
 
 111300
-U15 G +66
+U15 G +66 Pool A
 0
 FRA
 
