@@ -5,7 +5,7 @@ eden
 kanido herseaux
 
 40000
-?
+U15 G 42
 0
 BEL
 
