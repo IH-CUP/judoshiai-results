@@ -5,7 +5,7 @@ ELIA
 SOLVAY
 
 50000
-U15 F 52
+U15 F 52 Pool C
 0
 BEL
 

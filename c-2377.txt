@@ -5,7 +5,7 @@ SAWSANE
 neko anderlecht
 
 47700
-U15 F 48
+U15 F 48 Pool C
 0
 BEL
 

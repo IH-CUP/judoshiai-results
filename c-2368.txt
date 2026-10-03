@@ -5,7 +5,7 @@ Julia
 Judo as anzin
 
 45600
-U15 F 48
+U15 F 48 Pool C
 0
 FRA
 
