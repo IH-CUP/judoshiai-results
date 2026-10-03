@@ -5,7 +5,7 @@ Noha
 JC Horrues
 
 46700
-U15 G 50
+U15 G 50 Pool G
 0
 BEL
 

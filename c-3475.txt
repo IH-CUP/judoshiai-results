@@ -5,7 +5,7 @@ Austin
 Core Judo 
 
 54300
-U15 G 55
+U15 G 55 Pool C
 0
 GBR
 

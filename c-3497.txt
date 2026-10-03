@@ -5,7 +5,7 @@ Luke
 Core Judo
 
 52000
-U15 G 55
+U15 G 55 Pool G
 0
 GBR
 

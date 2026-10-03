@@ -5,7 +5,7 @@ Bastien
 AJ59
 
 49000
-U15 G 50
+U15 G 50 Pool E
 0
 FRA
 
