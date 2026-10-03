@@ -5,7 +5,7 @@ Soan
 RJC Mons
 
 65600
-U15 G 66
+U15 G 66 Pool B
 0
 BEL
 

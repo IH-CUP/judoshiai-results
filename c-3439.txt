@@ -5,7 +5,7 @@ sacha
 judo fechain
 
 65300
-U15 G 66
+U15 G 66 Pool D
 0
 FRA
 
