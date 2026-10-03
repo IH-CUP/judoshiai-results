@@ -5,7 +5,7 @@ Ambre
 JC Sambreville
 
 52000
-U18 F 52
+U18 F 52 Pool C
 0
 BEL
 
