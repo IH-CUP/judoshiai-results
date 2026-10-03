@@ -5,7 +5,7 @@ TIMOTHEE
 OJA 62
 
 50000
-?
+U18 G -50kg Tableau
 0
 FRA
 
