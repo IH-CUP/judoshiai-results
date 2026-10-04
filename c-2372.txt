@@ -5,7 +5,7 @@ TUDOR
 JC STROOSSEN
 
 31400
-U11 G Pool K
+U11 G Pool J
 0
 LUX
 

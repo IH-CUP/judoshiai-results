@@ -5,7 +5,7 @@ Sinen
 JC Neupré
 
 33200
-U11 G Pool N
+U11 G Pool M
 0
 BEL
 
