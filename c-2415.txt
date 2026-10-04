@@ -5,7 +5,7 @@ Eyden
 RJCAM Aiseau Presles
 
 48500
-U11 G Pool V
+U11 G Pool U
 0
 BEL
 

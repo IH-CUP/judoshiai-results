@@ -5,7 +5,7 @@ Cléo
 JC Frameries
 
 61000
-U11 G Pool W
+U11 G Pool V
 0
 BEL
 

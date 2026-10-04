@@ -5,7 +5,7 @@ VICTOR
 JC STROOSSEN
 
 53000
-U11 G Pool V
+U11 G Pool U
 0
 LUX
 

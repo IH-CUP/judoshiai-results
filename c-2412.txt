@@ -5,7 +5,7 @@ Nathan
 JC Sambreville
 
 41000
-U11 G Pool U
+U11 G Pool T
 0
 BEL
 

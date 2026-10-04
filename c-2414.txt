@@ -5,7 +5,7 @@ Ezequiel
 JC Richemont 
 
 44100
-U11 G Pool U
+U11 G Pool T
 0
 FRA
 
