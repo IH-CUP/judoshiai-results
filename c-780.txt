@@ -5,7 +5,7 @@ Rosy
 RJCAM Aiseau Presles
 
 46500
-U13 F Pool F
+U13 F Pool K
 0
 BEL
 
