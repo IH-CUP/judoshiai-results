@@ -1,13 +1,13 @@
-BOUVIN
-Clementine
+ROTH
+Maximilian
 0
 ?
-Judo club sombreffe
+JC Uster
 
-0
+29900
 ?
-1
-BEL
+0
+SUI
 
 0
 0

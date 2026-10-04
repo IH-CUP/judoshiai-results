@@ -1,13 +1,13 @@
-LE BUSSY
-Lorraine
+DUPONT 
+Arthur 
 0
 ?
-Dojo Liégeois
+Villers bocage 80
 
-0
+32900
 ?
-1
-BEL
+0
+FRA
 
 0
 0
